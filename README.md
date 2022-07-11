@@ -1,8 +1,23 @@
 # CatsOfNet
-CatsOf.NET
+To celebrate International Cat Day on August 8th, I thought I would create CatsOf.NET to allow people to share their cats with the rest of the community.
 
 # Contributing
-We want people in the tech community to provide pictures of their cats.
+We want everyone in the tech community to share pictures of their cats.
+
+To add your cat, add an entry to the `/assets/cat-data.js` in the following format
+
+```
+{
+    "catName": "Stormtrooper",
+    "personName": "Lee Englestone",
+    "img": "cats/le-stormtrooper.jpg",
+    "description": "'Stormy' is a cool cat, never phased by anything. Perhaps a little too laid back. Brother of Molly",
+    "github": "https://github.com/leeenglestone",
+    "instagram": "https://www.instagram.com/leeenglestone/",
+    "twitter": "https://twitter.com/leeenglestone",
+    "linkedIn": "https://www.linkedin.com/in/leeenglestone/"
+},
+```
 
 ## Fork the Project
 1. Create your Feature Branch (git checkout -b feature/AmazingFeature)
