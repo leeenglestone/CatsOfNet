@@ -330,18 +330,18 @@ c2.7-0.3,5.3-1,7.7-2.1C88.7,43,86.4,45.4,83.8,47.3z"></path>
 
   </section>
 </body>
-<script src="/assets/data.js"></script>
+<script src="/assets/cat-data.js"></script>
 <script>
 
   var catHtml = "";
 
-  data.forEach((item) => {
+  catData.forEach((item) => {
     //console.log('Cat Name: ' + item.catName);
     catHtml += `<div class="u-container-layout u-similar-container u-container-layout-2">
               <img alt="" class="u-expanded-width u-image u-image-round u-radius-20 u-image-1" data-image-width="500" data-image-height="500" src="` + item.img + `">
-              <p class="u-text u-text-default u-text-grey-30 u-text-4">` + item.personName + `</p>
               <h3 class="u-custom-font u-font-raleway u-text u-text-default u-text-palette-2-base u-text-5">` + item.catName + `</h3>
               <p class="u-text u-text-body-color u-text-6">` + item.description + `</p>
+              <p class="u-text u-text-default u-text-grey-30 u-text-4">` + item.personName + `</p>
               <div class="u-align-left u-social-icons u-spacing-30 u-social-icons-1">`;                
 
                 if(!!item.linkedIn)

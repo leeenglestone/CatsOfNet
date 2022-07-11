@@ -1,4 +1,4 @@
-var data = [
+var catData = [
     {
       "catName": "Stormtrooper",
       "personName": "Lee Englestone",
