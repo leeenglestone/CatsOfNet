@@ -64,4 +64,13 @@ var catData = [
     "twitter": "https://twitter.com/jamesmcroft",
     "linkedIn": "https://www.linkedin.com/in/jmcroft/"
   },
+  {
+    "catName": "Kitty",
+    "personName": "Paul J Stales",
+    "img": "cats/pjs-kitty.jpg",
+    "description": "'Kitty' is an elderly cat who loves when her human writes code so she can sleep in his arms. Paul makes sure she has a warm cat bed on every floor and as much love as he can give!",
+    "github": "https://github.com/pauljstales",
+    "twitter": "https://twitter.com/pauljstales",
+    "linkedIn": "https://www.linkedin.com/in/paul-j-stales"
+  },
 ];
