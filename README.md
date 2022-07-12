@@ -4,7 +4,7 @@ To celebrate International Cat Day on August 8th, I thought I would create CatsO
 # Contributing
 We want everyone in the tech community to share pictures of their cats.
 
-To add your cat, add an entry to the `/assets/cat-data.js` in the following format
+To add your cat, add an entry to the `docs/assets/cat-data.js` in the following format
 
 ```
 {
