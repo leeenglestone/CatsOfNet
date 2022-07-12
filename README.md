@@ -24,3 +24,10 @@ To add your cat, add an entry to the `/assets/cat-data.js` in the following form
 2. Commit your Changes (git commit -m 'Add some AmazingFeature')
 3. Push to the Branch (git push origin feature/AmazingFeature)
 4. Open a Pull Request
+
+## Notes
+- Please Upload cat image to `docs/cats`
+- Cat image paths MUST be relative to this site (not absolute to another site)
+- Cat image must be .jpg format
+- Cat image should be a square and no larger than 500px x 500px
+- Descriptions should be no longer than 180 characters
