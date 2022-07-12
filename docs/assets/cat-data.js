@@ -18,5 +18,32 @@ var catData = [
       "instagram": "https://www.instagram.com/leeenglestone/",
       "twitter": "https://twitter.com/leeenglestone",
       "linkedIn": "https://www.linkedin.com/in/leeenglestone/"
+    },
+    {
+    "catName": "Suzy",
+    "personName": "Katy Nicholson",
+    "img": "cats/kn-suzy.jpg",
+    "description": "'Suzy' is a tiny cat who will be fussed on her own terms. Stroke her too much? She'll gently bite. Don't stroke her enough? She'll also bite. She's about 9 years old.",
+    "github": "https://github.com/CoasterKaty",
+    "twitter": "https://twitter.com/coaster_katy",
+    "linkedIn": "https://www.linkedin.com/in/katy-nicholson-mvp-138a98197/"
+    },
+    {
+    "catName": "Oreo",
+    "personName": "Katy Nicholson",
+    "img": "cats/kn-oreo.jpg",
+    "description": "'Oreo' is a young, magnificent hunter, bringing us many mice and birds. He's about 2 years old and loves attention. No amount of stroking is too much for him.",
+    "github": "https://github.com/CoasterKaty",
+    "twitter": "https://twitter.com/coaster_katy",
+    "linkedIn": "https://www.linkedin.com/in/katy-nicholson-mvp-138a98197/"
+    },
+    {
+    "catName": "Romeo",
+    "personName": "Katy Nicholson",
+    "img": "cats/kn-romeo.jpg",
+    "description": "'Romeo' is sadly no longer with us, he was about 7 in this photo and was rescued as a stray age 3. He was so full of love and nicknamed 'Mr Hoppy' due to his missing back leg.",
+    "github": "https://github.com/CoasterKaty",
+    "twitter": "https://twitter.com/coaster_katy",
+    "linkedIn": "https://www.linkedin.com/in/katy-nicholson-mvp-138a98197/"
     }
   ];
